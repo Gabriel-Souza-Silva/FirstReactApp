@@ -19,3 +19,6 @@
 [0911/202030.106:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
 [0911/202030.126:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
 [0911/202030.129:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
+[0912/212115.192:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
+[0912/212115.196:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
+[0912/212115.199:ERROR:file_io_win.cc(179)] CreateFile C:\Program Files (x86)\settings.dat: Acesso negado. (0x5)
